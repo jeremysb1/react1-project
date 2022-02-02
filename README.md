@@ -13,26 +13,15 @@ A web-based application enabling users to use image recognition with submitted p
 
 ## How I built This
 
-Front End:
+- Front End: JavaScript, React, HTML, CSS
+- Backend: Node.js, 
+- Database: PostgreSQL
+- Oauth: Firebase
+- API: Clarifai AI
 
-JavaScript, React, HTML, CSS
+## Getting Started
 
-Backend: 
-
-Node.js, 
-
-Database:
-
-PostgreSQL
-
-Oauth:
-
-Firebase
-
-API:
-
-Clarifai AI
-
-
-
+1. Install dependencies - react, npm, node, postgresql. 
+2. Set up firebase account. 
+3. Install Clarifai AI.
 
