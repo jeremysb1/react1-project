@@ -9,7 +9,7 @@
 
 ## About This Project
 
-A web-based application enabling users to use image recognition with submitted photos.
+A web-based application enabling users to detect faces with image recognition.
 
 ## How I built This
 
@@ -24,4 +24,3 @@ A web-based application enabling users to use image recognition with submitted p
 1. Install dependencies - react, npm, node, postgresql. 
 2. Set up firebase account. 
 3. Install Clarifai AI.
-
